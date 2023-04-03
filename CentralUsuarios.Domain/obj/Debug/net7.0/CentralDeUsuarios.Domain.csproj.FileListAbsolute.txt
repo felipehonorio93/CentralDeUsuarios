@@ -1,0 +1,15 @@
+C:\Projetos\CentralDeUsuarios\CentralUsuarios.Domain\bin\Debug\net7.0\CentralDeUsuarios.Domain.deps.json
+C:\Projetos\CentralDeUsuarios\CentralUsuarios.Domain\bin\Debug\net7.0\CentralDeUsuarios.Domain.dll
+C:\Projetos\CentralDeUsuarios\CentralUsuarios.Domain\bin\Debug\net7.0\CentralDeUsuarios.Domain.pdb
+C:\Projetos\CentralDeUsuarios\CentralUsuarios.Domain\bin\Debug\net7.0\CentarlDeUsuarios.Domain.Core.dll
+C:\Projetos\CentralDeUsuarios\CentralUsuarios.Domain\bin\Debug\net7.0\CentarlDeUsuarios.Domain.Core.pdb
+C:\Projetos\CentralDeUsuarios\CentralUsuarios.Domain\obj\Debug\net7.0\CentralDeUsuarios.Domain.csproj.AssemblyReference.cache
+C:\Projetos\CentralDeUsuarios\CentralUsuarios.Domain\obj\Debug\net7.0\CentralDeUsuarios.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CentralDeUsuarios\CentralUsuarios.Domain\obj\Debug\net7.0\CentralDeUsuarios.Domain.AssemblyInfoInputs.cache
+C:\Projetos\CentralDeUsuarios\CentralUsuarios.Domain\obj\Debug\net7.0\CentralDeUsuarios.Domain.AssemblyInfo.cs
+C:\Projetos\CentralDeUsuarios\CentralUsuarios.Domain\obj\Debug\net7.0\CentralDeUsuarios.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\CentralDeUsuarios\CentralUsuarios.Domain\obj\Debug\net7.0\CentralDeUsuarios.Domain.csproj.CopyComplete
+C:\Projetos\CentralDeUsuarios\CentralUsuarios.Domain\obj\Debug\net7.0\CentralDeUsuarios.Domain.dll
+C:\Projetos\CentralDeUsuarios\CentralUsuarios.Domain\obj\Debug\net7.0\refint\CentralDeUsuarios.Domain.dll
+C:\Projetos\CentralDeUsuarios\CentralUsuarios.Domain\obj\Debug\net7.0\CentralDeUsuarios.Domain.pdb
+C:\Projetos\CentralDeUsuarios\CentralUsuarios.Domain\obj\Debug\net7.0\ref\CentralDeUsuarios.Domain.dll

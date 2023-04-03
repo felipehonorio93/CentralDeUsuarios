@@ -1,0 +1,33 @@
+C:\Projetos\CentralDeUsuarios\CentralDeUsuarios. Services.Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Projetos\CentralDeUsuarios\CentralDeUsuarios. Services.Api\bin\Debug\net7.0\appsettings.json
+C:\Projetos\CentralDeUsuarios\CentralDeUsuarios. Services.Api\bin\Debug\net7.0\CentralDeUsuarios. Services.Api.exe
+C:\Projetos\CentralDeUsuarios\CentralDeUsuarios. Services.Api\bin\Debug\net7.0\CentralDeUsuarios. Services.Api.deps.json
+C:\Projetos\CentralDeUsuarios\CentralDeUsuarios. Services.Api\bin\Debug\net7.0\CentralDeUsuarios. Services.Api.runtimeconfig.json
+C:\Projetos\CentralDeUsuarios\CentralDeUsuarios. Services.Api\bin\Debug\net7.0\CentralDeUsuarios. Services.Api.dll
+C:\Projetos\CentralDeUsuarios\CentralDeUsuarios. Services.Api\bin\Debug\net7.0\CentralDeUsuarios. Services.Api.pdb
+C:\Projetos\CentralDeUsuarios\CentralDeUsuarios. Services.Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Projetos\CentralDeUsuarios\CentralDeUsuarios. Services.Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Projetos\CentralDeUsuarios\CentralDeUsuarios. Services.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projetos\CentralDeUsuarios\CentralDeUsuarios. Services.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projetos\CentralDeUsuarios\CentralDeUsuarios. Services.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projetos\CentralDeUsuarios\CentralDeUsuarios. Services.Api\obj\Debug\net7.0\CentralDeUsuarios. Services.Api.csproj.AssemblyReference.cache
+C:\Projetos\CentralDeUsuarios\CentralDeUsuarios. Services.Api\obj\Debug\net7.0\CentralDeUsuarios. Services.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CentralDeUsuarios\CentralDeUsuarios. Services.Api\obj\Debug\net7.0\CentralDeUsuarios. Services.Api.AssemblyInfoInputs.cache
+C:\Projetos\CentralDeUsuarios\CentralDeUsuarios. Services.Api\obj\Debug\net7.0\CentralDeUsuarios. Services.Api.AssemblyInfo.cs
+C:\Projetos\CentralDeUsuarios\CentralDeUsuarios. Services.Api\obj\Debug\net7.0\CentralDeUsuarios. Services.Api.csproj.CoreCompileInputs.cache
+C:\Projetos\CentralDeUsuarios\CentralDeUsuarios. Services.Api\obj\Debug\net7.0\CentralDeUsuarios. Services.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Projetos\CentralDeUsuarios\CentralDeUsuarios. Services.Api\obj\Debug\net7.0\CentralDeUsuarios. Services.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Projetos\CentralDeUsuarios\CentralDeUsuarios. Services.Api\obj\Debug\net7.0\staticwebassets\msbuild.CentralDeUsuarios. Services.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projetos\CentralDeUsuarios\CentralDeUsuarios. Services.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.CentralDeUsuarios. Services.Api.props
+C:\Projetos\CentralDeUsuarios\CentralDeUsuarios. Services.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CentralDeUsuarios. Services.Api.props
+C:\Projetos\CentralDeUsuarios\CentralDeUsuarios. Services.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CentralDeUsuarios. Services.Api.props
+C:\Projetos\CentralDeUsuarios\CentralDeUsuarios. Services.Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Projetos\CentralDeUsuarios\CentralDeUsuarios. Services.Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Projetos\CentralDeUsuarios\CentralDeUsuarios. Services.Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Projetos\CentralDeUsuarios\CentralDeUsuarios. Services.Api\obj\Debug\net7.0\scopedcss\bundle\CentralDeUsuarios. Services.Api.styles.css
+C:\Projetos\CentralDeUsuarios\CentralDeUsuarios. Services.Api\obj\Debug\net7.0\CentralDeUsuarios. Services.Api.csproj.CopyComplete
+C:\Projetos\CentralDeUsuarios\CentralDeUsuarios. Services.Api\obj\Debug\net7.0\CentralDeUsuarios. Services.Api.dll
+C:\Projetos\CentralDeUsuarios\CentralDeUsuarios. Services.Api\obj\Debug\net7.0\refint\CentralDeUsuarios. Services.Api.dll
+C:\Projetos\CentralDeUsuarios\CentralDeUsuarios. Services.Api\obj\Debug\net7.0\CentralDeUsuarios. Services.Api.pdb
+C:\Projetos\CentralDeUsuarios\CentralDeUsuarios. Services.Api\obj\Debug\net7.0\CentralDeUsuarios. Services.Api.genruntimeconfig.cache
+C:\Projetos\CentralDeUsuarios\CentralDeUsuarios. Services.Api\obj\Debug\net7.0\ref\CentralDeUsuarios. Services.Api.dll
